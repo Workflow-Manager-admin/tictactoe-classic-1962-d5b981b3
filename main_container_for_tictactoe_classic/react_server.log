@@ -1,0 +1,58 @@
+
+> react-kavia@0.1.0 start
+> react-scripts start
+
+(node:2647) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:2647) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-kavia in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.17.0.2:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-22c9f2d4-2174-4bc7-bd2e-fe4467c7a465.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-2db35b6e-d951-45a0-ae1a-dceba5728bb4.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-0e5ce66a-9b11-4295-ace4-5bad9ea044d0.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-382be08a-ddd1-4831-aae7-dd03de663664.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-0155bf85-89ff-4cf4-b5e1-c224bdd63a00.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-3a42b4a0-eaaa-4ca8-a79f-d5e89b5a0e96.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-3a8b9b1d-8204-47f7-be2a-4a3089672119.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-3b714231-782e-4007-9109-630a18b65011.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-27539692-dffe-488f-8d23-c5100abdb9d5.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-28ea8879-b4da-41c1-a9bb-3adb6abb8421.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-66e10eee-c012-4612-b3d5-564233f85677.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-6bda0b30-f480-4544-b204-a88124220fa3.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-7c681391-f4c2-4833-8ee4-c26fb997a920.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-3182e837-2b71-47f3-80a2-d1d2281d0048.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-7e76505e-ced2-4c5e-aa75-d69403fcff24.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-85ca6fb4-8a34-4150-b471-6d2218054d11.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-975f8005-e094-4a46-8b44-4cbbcbd67b88.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-a45dbe95-f558-4b31-96b7-505987eb709f.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-b8203d37-bd34-45f8-a939-779a2ae91976.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-da311630-8e6f-41d9-bd79-d2c8fe22513e.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-f0e77947-9fb7-47cd-9926-0da1c68d0437.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-65d415e8-914d-42ad-88db-08ae5ed1c7ae.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-6e26bff3-1cbb-4eff-bc53-edeb6306557b.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-851c3b9b-811d-400f-ac31-ba3f7b92c555.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-a4188b2a-be54-4a22-9458-07a0458ef108.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-a52f690b-3b0f-480e-bb4d-652fbbdbc0cf.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-b072ce3c-4af4-4e7b-bb8b-975e983cad96.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-bebc446b-710d-4587-96fa-d68e73667c96.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-cb1614f9-90f4-4e7d-a3b2-385d8b5c9ff0.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-dc24133b-8608-4a0c-aa5d-8ed2e05b86d3.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-df748c27-21f6-46e5-a293-850b1c1c6067.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-e38d4a97-b54c-4153-8343-2e004871b2d0.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-f0dd9141-37dd-46cf-8c47-80134e00164c.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-f61d275f-4249-42b5-a576-c3fec28304c8.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-ipc-f85ddd01-f217-445f-b749-8333945d1ff3.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-3ebdba7d23.sock'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/.s.PGSQL.5432'
+Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/vscode-git-7e3f92c2cb.sock'
